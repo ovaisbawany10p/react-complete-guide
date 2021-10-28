@@ -1,0 +1,27 @@
+.cockpit-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .cockpit-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .cockpit-title {
+    font-size: 1.5em;
+  }
+  
+  .cockpit-intro {
+    font-size: large;
+  }
+
+.red {
+    color: red;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
